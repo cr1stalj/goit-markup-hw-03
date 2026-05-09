@@ -1,0 +1,13 @@
+body {
+    background-color: #ffffff;
+}
+body {
+    font-family: Roboto, sans-serif;
+    font-weight: 500;
+        font-size: 14px;
+        line-height: 1.4;
+        color: #434455;
+}
+ul {
+    list-style: none;
+}

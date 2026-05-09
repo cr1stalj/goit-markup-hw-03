@@ -1,0 +1,53 @@
+.logo {
+ font-family: raleway, sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.33;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color : #2E2F42;
+  text-decoration: none;
+}
+.logo .logotype {
+  color: #4D5AE5;
+  text-decoration: none;
+}
+address {
+  font-style: normal;
+}
+.email {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+  text-decoration: none;
+}
+.email:focus,
+.email:hover {
+  color: #404BBF;
+}
+.phone {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+  text-decoration: none;
+}
+.phone:focus,
+.phone:hover {
+  color: #404BBF;
+}
+.nav-link {
+  color: #2E2F42;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-decoration: none;
+}
+.nav-link:focus,
+.nav-link:hover {
+  color: #404BBF;
+  text-decoration: none;
+}
