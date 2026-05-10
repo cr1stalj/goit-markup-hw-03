@@ -51,3 +51,35 @@ address {
   color: #404BBF;
   text-decoration: none;
 }
+.header .container {
+  display: flex;
+  align-items: center;
+  padding: 24px 0;
+}
+.header address ul, 
+.header nav ul {
+  display: flex;
+  gap: 40px;
+}
+.header address {
+  margin-left: auto;
+}
+.header address ul {
+  margin-right: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-left: 0;
+}
+.header nav {
+  margin-left:76px;
+
+}
+header nav ul {
+margin-right: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-left: 0;
+}
+.header {
+  border-bottom: 1px solid #ffffff;
+}
