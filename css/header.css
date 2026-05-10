@@ -13,8 +13,9 @@
   color: #4D5AE5;
   text-decoration: none;
 }
-address {
+.header-address {
   font-style: normal;
+  margin-left: auto;
 }
 .email {
   font-weight: 400;
@@ -63,34 +64,31 @@ address {
   color: #404BBF;
   text-decoration: none;
 }
-.header .container {
+.header-container {
   display: flex;
   align-items: center;
 }
-.header address ul, 
-.header nav ul {
-  display: flex;
-  gap: 40px;
-}
-.header address {
-  margin-left: auto;
-}
-.header address ul {
+
+
+
+.contacts-list {
   margin-right: 0;
   margin-top: 0;
   margin-bottom: 0;
   padding-left: 0;
+  display: flex;
+  gap: 40px;
 }
-.header nav {
+.nav-list {
   margin-left:76px;
-
-}
-header nav ul {
 margin-right: 0;
   margin-top: 0;
   margin-bottom: 0;
   padding-left: 0;
+  display: flex;
+  gap: 40px;
 }
+
 .header {
   border-bottom: 1px solid #e7e9fc;
 }
