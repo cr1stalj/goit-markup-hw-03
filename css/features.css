@@ -21,8 +21,7 @@
     padding: 0;
 }
 .features-block {
-   /* width: 264px; */
-   height: 104px;
+width: calc((100% - 72px) / 4);
 }
 .features {
     margin: 0;
